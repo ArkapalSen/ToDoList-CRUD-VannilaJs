@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&family=Zen+Kaku+Gothic+New&display=swap");
+
+body {
+  font-family: "Zen Kaku Gothic New", sans-serif;
+}
+
+.col-2 {
+  width: 15.5%;
+}
+
+.navbar-brand {
+  margin-left: 2rem;
+}
+
+btn {
+  border-radius: 1.25rem;
+}
+
+.editBtn,
+.deleteBtn {
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 10px;
+}
+
+#deleteAll {
+  border-radius: 1.25rem;
+}
+
+#addBtn {
+  border-radius: 1.25rem;
+}
+
+#editBtn {
+  border-radius: 1.25rem;
+}
+
+#searchBar {
+  border-radius: 10px;
+  border-color: burlywood;
+}
+
+::placeholder {
+  text-align: center;
+  color: rgb(0, 83, 238);
+  font-weight: 600;
+}
